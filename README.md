@@ -1,12 +1,12 @@
 # Hi, I'm Isaias 👋
 
-- :computer::iphone: I’m looking to collaborate on full stack web applications!
+- :computer::iphone: 
 - :brain: Learning [Python](https://www.python.org/)
 - :purple_heart: Loving [JavaScript](https://www.javascript.com/), [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/about/)
 - 💬 Ask me about JavaScript and Full Stack Web Development
 
 ## Contact Me 
-:house:   [Website](https://isaias2020.github.io/UpdatedPortfolio/) | :necktie:   [Linkedin](https://www.linkedin.com/in/isaias-quintanilla-5435351a8/)
+:necktie:   [Linkedin](https://www.linkedin.com/in/isaias-quintanilla-5435351a8/)
 
 ![counter](https://enj410q38dnsqeq.m.pipedream.net)
 <p align="center"><samp>
